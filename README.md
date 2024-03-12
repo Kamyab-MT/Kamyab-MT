@@ -2,10 +2,15 @@
 
 <img src="https://img.shields.io/github/stars/Kamyab-MT">
 
+A Web developer with a Never-ending Passion to Try and Learn new things<br>
+Professional experience with the Technologies are listed in the <strong>🧰 Toolbox</strong>
+<hr>
+
+
+🧰 Toolbox :
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80px" height="80px"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="80px" height="80px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80px" height="80px"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="80px" height="80px"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg" width="80px" height="80px">
+
+<hr>
+
 [![Kamyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamyab-MT&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamyab-MT&theme=gotham&size_weight=0.5&count_weight=0.5)
-
-Things we could talk about :
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="80px" height="80px"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="80px" height="80px"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="80px" height="80px"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="80px" height="80px">
