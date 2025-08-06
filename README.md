@@ -2,4 +2,4 @@
 
 <img src="https://img.shields.io/github/stars/Kamyab-MT">
 
-Game Developer | Web Designer and ML enthusiastic with a Never-ending Passion to Try and Learn new things<br>
+Game Developer with a Never-ending Passion to Try and Learn new things<br>
